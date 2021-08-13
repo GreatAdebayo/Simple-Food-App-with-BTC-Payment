@@ -43,7 +43,7 @@ public function generateRandomString($length = 10) {
 
 //  Generate Bitcoin Wallet address from blockonomics   
 public function generateAddress(){
-    $apikey = 'vIP3QaayKEVAB29GJMz4RHua1x5agdBHrDgRZBKRkHk';
+    $apikey = '';
     $url = "https://www.blockonomics.co/api/";
     $options = array( 
         'http' => array(

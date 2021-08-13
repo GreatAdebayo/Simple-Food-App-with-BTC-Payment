@@ -1,7 +1,7 @@
 <?php 
 include 'function.php';
 
-$secretlocal = "1997"; // Code in the callback, make sure this matches to what youve set
+$secretlocal = ""; // Code in the callback, make sure this matches to what youve set
 
 // Get all these values
 $status = 0;
